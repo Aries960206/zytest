@@ -10,8 +10,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-DeprecationWarning
-test
-if__user___
-123
-8888888
+
+    if __name__ == '__main__':
+    main()
